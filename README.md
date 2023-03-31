@@ -25,3 +25,6 @@ This Java Chat System using TCP Protocol allows users to communicate with each o
 6. Repeat steps 4-5 for additional clients.
 7. Type a message in the text field at the bottom of the chat window and click "Send" to send the message to all connected clients.
 8. Closing window will disconnect client.
+
+
+***NOTE : The total no. of online users is not working***
