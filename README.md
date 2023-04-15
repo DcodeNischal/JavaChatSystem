@@ -17,7 +17,7 @@ This Java Chat System using TCP Protocol allows users to communicate with each o
 
 # How to Use
 1. Clone the repository to your local machine using the command:
-**git clone https://github.com/your-username/java-chat-system.git**
+**git clone https://github.com/dcodenischal/javachatsystem.git**
 2. Open the project in Eclipse IDE (or any other Java IDE of your choice).
 3. Run the Server.java file to start the server.
 4. Run the Client.java file to start a client.
